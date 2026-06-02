@@ -1,0 +1,38 @@
+[
+  {
+    "name": "about",
+    "file": "src/commands/about.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "news",
+    "file": "src/commands/news.js"
+  },
+  {
+    "name": "nft",
+    "file": "src/commands/nft.js"
+  },
+  {
+    "name": "price",
+    "file": "src/commands/price.js"
+  },
+  {
+    "name": "scan",
+    "file": "src/commands/scan.js"
+  },
+  {
+    "name": "sentiment",
+    "file": "src/commands/sentiment.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "wallet",
+    "file": "src/commands/wallet.js"
+  }
+]
